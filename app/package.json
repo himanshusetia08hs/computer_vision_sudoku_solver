@@ -1,0 +1,53 @@
+{
+  "name": "sudoku-grab",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.8.6",
+    "@tensorflow/tfjs-backend-wasm": "^2.8.6",
+    "@tensorflow/tfjs-react-native": "^0.8.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/babel__traverse": "^7.18.3",
+    "@types/jest": "^24.0.0",
+    "@types/mathjs": "^6.0.5",
+    "@types/node": "^12.0.0",
+    "mathjs": "^7.6.0",
+    "node-modules": "^1.0.1",
+    "react": "^16.14.0",
+    "react-app-rewired": "^2.2.1",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^3.4.1",
+    "serve": "^11.3.2",
+    "strict-event-emitter-types": "^2.0.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.10",
+    "yarn": "^1.22.19"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.34",
+    "@types/react-dom": "^16.9.17"
+  }
+}

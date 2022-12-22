@@ -1,0 +1,6 @@
+./python/testing_data
+./python/training_data
+./python/log
+./python/all_data
+
+./app/node_modules
